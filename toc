@@ -1,0 +1,36 @@
+{:navgroup: .navgroup}
+{:topicgroup: .topicgroup}
+
+{: .toc subcollection="mdm-oc" category="ai,analytics,cloud_pak" audience="service" href="/docs/services/mdm-oc/getting-started.html" path="services/mdm-oc"}
+Master Data Management
+
+    {: .navgroup id="learn"}
+    getting-started.md
+    about.md
+    {: .navgroup-end}
+
+    {: .navgroup id="howto"}
+    using-mdm.md
+    
+    {: .topicgroup}
+    Enhancing security
+        security.md
+        iam.md
+        at-events.md
+    
+    ha-dr.md
+    {: .navgroup-end}
+
+    {: .navgroup id="reference"}
+    query-api.md
+    [API reference](https://cloud.ibm.com/apidocs/mdm)
+    [Master Data Management service documentation in the Cloud Pak for Data documentation application](https://dataplatform.cloud.ibm.com/docs/content/wsj/mdm/getting-started.html)
+    [Cloud Pak for Data as a Service documentation](https://dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/welcome-main.html?audience=wdp&context=cpdaas)
+    {: .navgroup-end}
+
+    {: .navgroup id="help"}
+    support.md
+    faq.md
+    troubleshoot.md
+    release_notes.md
+    {: .navgroup-end}
